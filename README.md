@@ -1,5 +1,7 @@
 # Sign-up Form
 
+![preview](https://user-images.githubusercontent.com/75941430/166895029-737bf9d7-a185-4c07-bf78-a8696104f4a9.png)
+
 ## Links
 
 - [Try testing here!](https://rolo-coding.github.io/signup-form)
